@@ -20,4 +20,4 @@ Web app Development like POS Systems, Blog Sites, e-commerce Sites, business lan
 -  [Facebook](https://www.facebook.com/abdulhay103 "Facebook")
 -  abdulhay.me@gmail.com
 
-Never feel hesitated to talk to me :fa-thumbs-o-up:
+Never feel hesitated to talk to me...
